@@ -1,0 +1,5 @@
+# ninja log v6
+1	598	1717531470216470269	CMakeFiles/PythonDataType.dir/library.cpp.o	968598df61255adc
+600	649	1717531470815244647	libPythonDataType.a	cbf17b4853026d1b
+6	443	1717531545489713435	CMakeFiles/PythonDataType.dir/library.cpp.o	968598df61255adc
+443	463	1717531545926500468	libPythonDataType.a	cbf17b4853026d1b

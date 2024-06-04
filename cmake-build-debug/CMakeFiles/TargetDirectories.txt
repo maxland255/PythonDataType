@@ -1,0 +1,3 @@
+/Users/harrypieteraerens/CLionProjects/PythonDataType/cmake-build-debug/CMakeFiles/PythonDataType.dir
+/Users/harrypieteraerens/CLionProjects/PythonDataType/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrypieteraerens/CLionProjects/PythonDataType/cmake-build-debug/CMakeFiles/rebuild_cache.dir

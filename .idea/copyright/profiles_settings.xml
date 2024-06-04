@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="Pieteraerens">
+    <module2copyright>
+      <element module="All" copyright="Pieteraerens" />
+      <element module="Open Files" copyright="Pieteraerens" />
+    </module2copyright>
+  </settings>
+</component>
